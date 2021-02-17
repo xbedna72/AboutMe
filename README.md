@@ -5,6 +5,6 @@
 - 📫 How to reach me mail! majka.bednarova24@gmail.com
 
 <!---
-xbedna72/xbedna72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AboutMe/MayBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
